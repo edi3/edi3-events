@@ -2,7 +2,7 @@
 title: "edi3 Event Structure 1.0 Specification"
 specID: "events/1"
 status: "![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)"
-editors: "[Chris Gough](https://github.com/monkeypants)"
+editors: "[Chris Gough](christopher.d.gough@gmail.com)"
 contributors: 
 ---
 
